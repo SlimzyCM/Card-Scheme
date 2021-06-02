@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\bin\Debug\netcoreapp3.1\CardScheme.Infrastructure.deps.json
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\bin\Debug\netcoreapp3.1\CardScheme.Infrastructure.runtimeconfig.json
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\bin\Debug\netcoreapp3.1\CardScheme.Infrastructure.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\bin\Debug\netcoreapp3.1\CardScheme.Infrastructure.dll
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\bin\Debug\netcoreapp3.1\CardScheme.Infrastructure.pdb
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\bin\Debug\netcoreapp3.1\CardScheme.Commons.dll
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\bin\Debug\netcoreapp3.1\CardScheme.Domain.dll
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\bin\Debug\netcoreapp3.1\CardScheme.Domain.pdb
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\bin\Debug\netcoreapp3.1\CardScheme.Commons.pdb
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\obj\Debug\netcoreapp3.1\CardScheme.Infrastructure.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\obj\Debug\netcoreapp3.1\CardScheme.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\obj\Debug\netcoreapp3.1\CardScheme.Infrastructure.AssemblyInfo.cs
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\obj\Debug\netcoreapp3.1\CardScheme.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\obj\Debug\netcoreapp3.1\CardScheme.Infrastructure.csproj.CopyComplete
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\obj\Debug\netcoreapp3.1\CardScheme.Infrastructure.dll
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\obj\Debug\netcoreapp3.1\CardScheme.Infrastructure.pdb
+C:\Users\hp\source\repos\CardScheme\CardScheme.Infrastructure\obj\Debug\netcoreapp3.1\CardScheme.Infrastructure.genruntimeconfig.cache

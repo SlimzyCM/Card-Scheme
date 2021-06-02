@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\bin\Debug\netcoreapp3.1\CardScheme.Domain.deps.json
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\bin\Debug\netcoreapp3.1\CardScheme.Domain.dll
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\bin\Debug\netcoreapp3.1\CardScheme.Domain.pdb
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\obj\Debug\netcoreapp3.1\CardScheme.Domain.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\obj\Debug\netcoreapp3.1\CardScheme.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\obj\Debug\netcoreapp3.1\CardScheme.Domain.AssemblyInfo.cs
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\obj\Debug\netcoreapp3.1\CardScheme.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\obj\Debug\netcoreapp3.1\CardScheme.Domain.dll
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\obj\Debug\netcoreapp3.1\CardScheme.Domain.pdb
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\bin\Debug\netcoreapp3.1\CardScheme.Commons.dll
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\bin\Debug\netcoreapp3.1\CardScheme.Commons.pdb
+C:\Users\hp\source\repos\CardScheme\CardScheme.Model\obj\Debug\netcoreapp3.1\CardScheme.Domain.csproj.CopyComplete

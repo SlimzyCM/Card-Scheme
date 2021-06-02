@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\CardScheme\CardScheme.Commons\bin\Debug\netcoreapp3.1\CardScheme.Commons.deps.json
+C:\Users\hp\source\repos\CardScheme\CardScheme.Commons\bin\Debug\netcoreapp3.1\CardScheme.Commons.dll
+C:\Users\hp\source\repos\CardScheme\CardScheme.Commons\bin\Debug\netcoreapp3.1\CardScheme.Commons.pdb
+C:\Users\hp\source\repos\CardScheme\CardScheme.Commons\obj\Debug\netcoreapp3.1\CardScheme.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CardScheme\CardScheme.Commons\obj\Debug\netcoreapp3.1\CardScheme.Commons.AssemblyInfo.cs
+C:\Users\hp\source\repos\CardScheme\CardScheme.Commons\obj\Debug\netcoreapp3.1\CardScheme.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CardScheme\CardScheme.Commons\obj\Debug\netcoreapp3.1\CardScheme.Commons.dll
+C:\Users\hp\source\repos\CardScheme\CardScheme.Commons\obj\Debug\netcoreapp3.1\CardScheme.Commons.pdb
+C:\Users\hp\source\repos\CardScheme\CardScheme.Commons\obj\Debug\netcoreapp3.1\CardScheme.Commons.csprojAssemblyReference.cache
